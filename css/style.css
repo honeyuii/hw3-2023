@@ -118,12 +118,12 @@ h1, h2, h3{
 
 p + p {
      /* Set indentation */
-     text-indent: 10%;
+     text-indent: 5%;
   }
   
 p{
      /* Set margin */
-     margin: 5px;
+     margin-top: 5px;
 }
 
 
